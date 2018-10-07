@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "749568103581",
+    "firebase_url": "https://fbauth-2873a.firebaseio.com",
+    "project_id": "fbauth-2873a",
+    "storage_bucket": "fbauth-2873a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749568103581:android:2670f64055752f0f",
+        "android_client_info": {
+          "package_name": "edu.somaiya.fbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749568103581-o8bm0fp4ua3m5hhmkq63ln15odqla0n2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.somaiya.fbauth",
+            "certificate_hash": "9a1a5cb80f7aef2df2c6130b9588634a8c1c6c1f"
+          }
+        },
+        {
+          "client_id": "749568103581-6scttrk35al4734aqo1307bn5k9sn3vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-mEeZhJSoEa1PPaB2GKRH5dNiZ3mK8V4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749568103581-6scttrk35al4734aqo1307bn5k9sn3vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
